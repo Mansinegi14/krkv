@@ -1,0 +1,63 @@
+.navbar {
+  background-color: white;
+  padding-bottom: 30px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.image {
+  height: 40px;
+  width: 40px;
+}
+
+.schoolname {
+  color: #800000;
+}
+
+h4 {
+  text-align: center;
+}
+
+.motto {
+  color: #800000;
+  font-family: inherit;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.quote {
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.line {
+  width: 10%;
+  align-items: center;
+  background-color: #fff;
+  border-top: 5px dotted #8c8b8b;
+}
+
+.footer {
+  background-color: #404040;
+  padding: 10px 0 10px;
+}
+
+.footer-link {
+  color: white;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+}
+
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}

@@ -1,0 +1,70 @@
+.navbar {
+  background-color: white;
+  padding-bottom: 30px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.image {
+  height: 40px;
+  width: 40px;
+}
+
+.schoolname {
+  color: #800000;
+}
+
+.info {
+  text-align: left;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+}
+
+h5 {
+  color: #800000;
+}
+
+h4 {
+  text-align: center;
+}
+
+hr {
+  width: 10%;
+  align-items: center;
+  background-color: #fff;
+  border-top: 5px dotted #800000;
+}
+
+.Staff {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer {
+  background-color: #404040;
+  padding: 10px 0 10px;
+}
+
+.footer-link {
+  color: white;
+}
+
+h4 {
+  text-align: center;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+}
+
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}

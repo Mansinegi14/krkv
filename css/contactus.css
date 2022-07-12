@@ -1,0 +1,72 @@
+.navbar {
+  background-color: white;
+  padding-bottom: 30px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.image {
+  height: 40px;
+  width: 40px;
+}
+
+.schoolname {
+  color: #800000;
+}
+.contact{
+  padding-top: 90px;
+  position: fixed;
+  color: #800000;
+  padding-left: 40px;
+}
+.details{
+  padding-top: 150px;
+  position: fixed;
+}
+.fa-location-dot{
+  padding-left: 40px;
+  position: fixed;
+  padding-top: 5px;
+}
+.address{
+  padding-left: 60px;
+  width: 300px;
+}
+.fa-phone{
+  padding-top: 5px;
+  padding-left: 40px;
+  position: fixed;
+}
+.phone{
+  padding-left: 60px;
+  width: 300px;
+}
+.fa-envelope{
+  padding-top: 5px;
+  padding-left: 40px;
+  position: fixed;
+}
+.mail{
+  padding-left: 60px;
+  color: black;
+}
+a:link{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.fa-clock{
+  padding-left: 40px;
+  position: fixed;
+  padding-top: 5px;
+}
+.time{
+  padding-left: 60px;
+}
+.img{
+  padding-left: 400px;
+  height: 550px;
+  width: 1200px;
+}
