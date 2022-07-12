@@ -6,7 +6,11 @@
   top: 0;
   width: 100%;
 }
-
+body{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 .image {
   height: 40px;
   width: 40px;
@@ -43,6 +47,7 @@ h4 {
 .footer {
   background-color: #404040;
   padding: 10px 0 10px;
+  margin-top: auto;
 }
 
 .footer-link {
