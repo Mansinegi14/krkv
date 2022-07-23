@@ -30,7 +30,21 @@ h4 {
   text-align: center;
   padding-top: 100px;
 }
-
+.vision {
+  color: #800000;
+  font-family: inherit;
+  text-align: center;
+  padding-top: 20px;
+}
+/*To center align div(list)*/
+.mission1{
+  margin: auto;
+  width: 70%;
+  padding: 10px 20px;
+}
+.mission{
+  text-align: left;
+}
 .quote {
   text-align: center;
   padding-left: 250px;
